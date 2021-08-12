@@ -4,7 +4,7 @@
 
 Submitted by: **Nicole Sosa**
 
-Time spent: **1hr** hours spent in total
+Time spent: **1hr 30 minutes** hours spent in total
 
 ## User Stories
 
